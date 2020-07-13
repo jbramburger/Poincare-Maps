@@ -12,4 +12,4 @@ The scripts associated to this repository are as follows:
 
 - Rossler_Section.m: Mapping discovery for the Rossler model in Section 3.5.
 
-- Spiral_Section.m: Mapping discovery for the coarse-grained dynamics of the dominant PCA modes of spiral waves. Spiral waves are generated from a lambda-omega model while PCA time series data is provided in spiral_data.mat.
+- Spiral_Section.m: Mapping discovery for the coarse-grained dynamics of the dominant PCA modes of spiral waves in Section 3.6. Spiral waves are generated from a lambda-omega model while PCA time series data is provided in spiral_data.mat.
