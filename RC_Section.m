@@ -24,7 +24,7 @@ format long
 A = 1;
 omega = 2*pi;
 
-%Generate Trajectories Hopf normal form
+%Generate Trajectories RC circuit equation
 m = 2; %Dimension of ODE
 n = m-1; %Dimension of Poincaré section
 dt = 0.01;
